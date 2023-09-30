@@ -80,9 +80,9 @@ The ngrok URL publishes your local server to the internet. You can get your fake
 
 👤 **Eizy**
 
-- Website: http://bufgix.space
+- Instagram: [@kak.ezy](https://instagram.com/kak.ezy)
 - Twitter: [@kakezy](https://twitter.com/kakezy)
-- Github: [@kak.ezy](https://github.com/kak.ezy)
+- Github: [@Adiardiansah](https://github.com/Adiardiansah)
 
 ## Show your support
 
