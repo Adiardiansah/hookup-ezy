@@ -17,7 +17,9 @@ A phishing tool that is written in Python and VueJS
 ## Installation 📀
 
 ### Step 1
+
 ---
+
 Launch your terminal
 
 ```bash
@@ -31,8 +33,8 @@ Install dependencies with `pip`
 λ pip install -r requirements.txt
 ```
 
-
 ### Step 2
+
 ---
 
 Run phishing and GUI server. If you have never launched the program before, it will ask for username and password.
@@ -53,9 +55,10 @@ Password
 If everything is ok, you'll see the ngrok page which is shown below
 ![img](https://i.imgyukle.com/2020/01/31/nPcXnQ.png)
 
-And now, open your favorite browser then type  `http://localhost:5000/adminpage` for the control panel.
+And now, open your favorite browser then type `http://localhost:5000/adminpage` for the control panel.
 
 ## Usage 👨‍💻
+
 ---
 
 ![img](https://i.imgyukle.com/2020/01/31/nPgm0I.png)
@@ -63,26 +66,26 @@ And now, open your favorite browser then type  `http://localhost:5000/adminpage`
 Login with your username and password (you set them on step 2)
 
 #### Configure
+
 ![img](https://i.imgyukle.com/2020/01/31/nPi1nb.png)
 
 On the configuration panel, you'll see that some fake pages have been already set up. Select the one for your use. "Current Page" part contains the data that victim will see.
 
 ### Results
+
 ![img](https://i.imgyukle.com/2020/01/31/nPpodU.png)
 The ngrok URL publishes your local server to the internet. You can get your fake page's URL at the top right corner of the screen(the part which says "Ngrok Url: ".). If your victim types their credientals correctly and pushes the send button, you'll handle the POST payload and results will be shown like the image above.
 
-
-
 ## Author
 
-👤 **bufgix**
+👤 **Eizy**
 
-* Website: http://bufgix.space
-* Twitter: [@bufgix](https://twitter.com/bufgix)
-* Github: [@bufgix](https://github.com/bufgix)
+- Website: http://bufgix.space
+- Twitter: [@kakezy](https://twitter.com/kakezy)
+- Github: [@kak.ezy](https://github.com/kak.ezy)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
